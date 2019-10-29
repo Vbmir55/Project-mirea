@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pyatnica" size="20.000000 16.462963" />
+    <ImageTarget name="chetverg" size="20.000000 11.027397" />
+    <ImageTarget name="sreda" size="20.000000 13.074074" />
+    <ImageTarget name="vtornik" size="20.000000 20.000000" />
+    <ImageTarget name="Ponedelnik" size="20.000000 12.222222" />
+  </Tracking>
+</QCARConfig>
